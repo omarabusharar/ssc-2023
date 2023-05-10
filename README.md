@@ -1,4 +1,4 @@
-# Mentality - SSC 2023 Submission
+# Mentality - Accepted SSC 2023 Submission 
 Meant to teach user about most aspects of Mental Health and ways to care for them.
 Frameworks Used: SpriteKit, SwiftUI
 [Video Link](https://youtu.be/aL7OD8BxTJ8).
