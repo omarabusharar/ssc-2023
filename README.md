@@ -1,7 +1,7 @@
 # Mentality
 A winning submission for Apple's Swift Student Challenge 2023 about Mental Health.
 ## Description
-Mentality is an iPad app designed to teach the user about Mental Health and the importance of it. It is divided into four sections, Mental Health, Mental Hazards, Mental Care, and a quiz at the end to wrap things up and to help the user solidify their learning.
+Mentality is an iPad app designed to teach the user about Mental Health and the importance of it. It is divided into four sections, Mental Health, Mental Hazards, Mental Maintenance, and a quiz at the end to wrap things up and to help the user solidify their learning.
 
 
 ## Frameworks Used
